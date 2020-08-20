@@ -61,7 +61,7 @@ public sealed class GameController : MonoBehaviour
     }
 
     /// <summary>
-    /// Sigleton pattern. Gives the instance of the GameController
+    /// Hands the instance of the GameController
     /// </summary>
     /// <returns>GameController instance</returns>
     public static GameController getInstance()
